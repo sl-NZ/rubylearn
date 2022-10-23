@@ -20,4 +20,4 @@
 
 # Hashes
 {:dog => 'barks', :cat => 'meows', :pig => 'oinks'}
-{:dog => 'barks', :cat => 'meows', :pig => 'oinks'}[:cat]
+{:dog => 'barks', :cat => 'meows', :pig => 'oinks'}[:cat]p

@@ -12,3 +12,7 @@
 - Local variables - name = 
 
 - Visual guide to ruby variables http://ruby.bastardsbook.com/chapters/variables/#visual-guide
+
+## Logical Operators
+-  they use short circuit evaluation in ruby compiler
+- above all else, your code needs to be readable and understandable by other people
