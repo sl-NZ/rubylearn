@@ -17,3 +17,7 @@
 -  they use short circuit evaluation in ruby compiler
 - above all else, your code needs to be readable and understandable by other people
 - `case` and `when` combination is same as `if` `elseif` equivalent
+
+
+## flow control
+- The next statement is executed and the rest of the cycle is skipped. 
