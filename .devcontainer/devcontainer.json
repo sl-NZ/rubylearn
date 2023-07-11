@@ -13,7 +13,8 @@
 			"extensions": [
 				"Shopify.ruby-lsp",
 				"GitHub.copilot",
-				"PKief.material-icon-theme"
+				"PKief.material-icon-theme",
+				"formulahendry.code-runner"
 			]
 		}
 	}
